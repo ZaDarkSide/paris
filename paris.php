@@ -170,7 +170,7 @@
      * }
      *
      */
-    class Model {
+    class ORMModel {
 
         // Default ID column for all models. Can be overridden by adding
         // a public static _id_column property to your model classes.
