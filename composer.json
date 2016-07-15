@@ -34,7 +34,7 @@
         "BSD-4-Clause"
     ],
     "require": {
-        "php": ">=5.2.0",
+        "php": ">=5.3.0",
         "j4mie/idiorm": "1.5.*"
     },
     "autoload": {
