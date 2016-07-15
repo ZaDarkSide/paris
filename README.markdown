@@ -74,6 +74,14 @@ foreach ($tweets as $tweet) {
 Changelog
 ---------
 
+#### 1.6.0-beta - pre-released 2016-07-16
+
+* Updated composer.json
+
+#### 1.6.0-alpha - pre-released 2016-07-16
+
+* Renamed class Model to ORMModel
+
 #### 1.5.4 - released 2014-09-23
 
 * Corrects return value in docblock for 2 Model functions [[michaelward82](https://github.com/michaelward82)] - [issue #99](https://github.com/j4mie/paris/pull/99)
